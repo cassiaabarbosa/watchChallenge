@@ -11,8 +11,8 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="watchWatch_WatchKit_App" customModuleProvider="target">
                     <items>
-                        <button width="10" height="50" alignment="right" title="Button" id="aZn-DL-IHW"/>
                         <group width="1" alignment="center" verticalAlignment="center" id="5Ju-nI-hO5"/>
+                        <button width="61" height="45" alignment="right" verticalAlignment="center" title="Númeeos" id="aZn-DL-IHW"/>
                     </items>
                     <connections>
                         <outlet property="button" destination="aZn-DL-IHW" id="WRc-lp-5dv"/>
